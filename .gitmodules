@@ -13,3 +13,6 @@
 [submodule "apps/basic"]
 	path = apps/basic
 	url = git@github.com:tboqi/yii2app-basic.git
+[submodule "apps/advanced"]
+	path = apps/advanced
+	url = git@github.com:tboqi/yii2apps-advanced.git
