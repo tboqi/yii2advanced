@@ -4,3 +4,9 @@
 [submodule "qiyu"]
 	path = qiyu
 	url = git@github.com:tboqi/yii2-qiyu.git
+[submodule "apps/backend"]
+	path = apps/backend
+	url = git@github.com:tboqi/yii2app-backend.git
+[submodule "apps/blog"]
+	path = apps/blog
+	url = git@github.com:tboqi/yii2app-blog.git
