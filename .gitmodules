@@ -1,0 +1,6 @@
+[submodule "apps/frontend"]
+	path = apps/frontend
+	url = git@github.com:tboqi/yii2app-frontend.git
+[submodule "qiyu"]
+	path = qiyu
+	url = git@github.com:tboqi/yii2-qiyu.git
