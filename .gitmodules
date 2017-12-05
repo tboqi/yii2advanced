@@ -10,3 +10,6 @@
 [submodule "apps/blog"]
 	path = apps/blog
 	url = git@github.com:tboqi/yii2app-blog.git
+[submodule "apps/basic"]
+	path = apps/basic
+	url = git@github.com:tboqi/yii2app-basic.git
