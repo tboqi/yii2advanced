@@ -1,5 +1,16 @@
 # yii2advanced
 
+# 安装smarty
+    composer require --prefer-dist yiisoft/yii2-smarty
+
+# 安装curl
+    composer require --prefer-dist linslin/yii2-curl
+
+# 安装admin
+    composer require mdmsoft/yii2-admin
+
+应用apps放入开发项目
+
 
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
